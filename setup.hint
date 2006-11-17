@@ -1,0 +1,4 @@
+category: Video
+requires: libtsmux0
+sdesc: "MPEG Transport Stream muxing library"
+ldesc: "MPEG Transport Stream muxing library"
