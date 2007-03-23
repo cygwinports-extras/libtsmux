@@ -1,0 +1,9 @@
+DESCRIPTION="MPEG Transport Stream muxing library"
+HOMEPAGE="http://schrodinger.sourceforge.net/"
+SRC_URI="mirror://sourceforge/schrodinger/${P}.tar.bz2"
+
+PKG_NAMES="${PN} ${PN}0 ${PN}-devel"
+PKG_HINTS="setup runtime devel"
+PKG_CONTENTS[0]='usr/share/doc/'
+PKG_CONTENTS[1]='usr/bin/*.dll'
+PKG_CONTENTS[2]='usr/include/ usr/lib/'
