@@ -1,5 +1,5 @@
 category: Video
-requires: cygwin glib2
+requires: glib2
 external-source: libtsmux
 sdesc: "MPEG Transport Stream muxing library (runtime)"
 ldesc: "MPEG Transport Stream muxing library"
